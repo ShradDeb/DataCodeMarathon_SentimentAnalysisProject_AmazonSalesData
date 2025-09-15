@@ -77,5 +77,8 @@ Feel free to explore the code, modify the parameters, and experiment with differ
 ---
 
 **Author:** **Shraddha Debata**
-**Connect with me:**  https://www.linkedin.com/in/shraddha-debata-59726094
-**View more of my work:** https://public.tableau.com/app/profile/shraddha.debata2941/vizzes , https://github.com/ShradDeb
+
+**Connect with me on LinkedIn:**  https://www.linkedin.com/in/shraddha-debata-59726094
+**View more of my work:** 
+          **Tableau** https://public.tableau.com/app/profile/shraddha.debata2941/vizzes 
+          **Kaggle** https://www.kaggle.com/code/shraddhadebata/notebooke11b1b1723
